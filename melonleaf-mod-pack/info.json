@@ -1,0 +1,8 @@
+{
+    "name": "melonleaf-mod-pack",
+    "version": "1.0.0",
+    "title": "Melonleaf Mod Pack",
+    "author": "drmelon",
+    "factorio_version": "1.1",
+    "dependencies": ["Squeak Through", "Bottleneck", "LogisticTrainNetwork", "Factorissimo2", "even-distribution", "alien-biomes", "Bio Industries", "factoryplanner", "Flow Control", "BigBags", "Dectorio", "ElectricTrain", "DiscoScience", "textplates", "UltimateBelts", "Side Inserters", "DoubleFurnace", "BigDrills"]
+}
